@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-<!--
 **LukasAstrauskas/LukasAstrauskas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![My Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=LukasAstrauskas&size_weight=0.5&count_weight=0.5&hide=Smarty,shell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukasastrauskas&show_icons=true&theme=radical)? -->
 
 Here are some ideas to get you started:
 
@@ -13,4 +16,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
