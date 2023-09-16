@@ -40,3 +40,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<details>
+<summary><h3>👨‍💻 More about me!</h3></summary>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo recusandae
+fugiat illo aspernatur adipisci quae at modi debitis vero aliquid. Amet
+sapiente, doloremque consectetur maxime expedita asperiores aliquid molestias
+ratione.
