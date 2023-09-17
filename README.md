@@ -22,13 +22,19 @@
 <img align="left" alt="Postgresql" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 <img align="left" alt="MySQL" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="MaterialUI" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="./sql.svg" />
 
 <br />
 
 #
 
-<!--
---- -->
+---
+
+## Badge
+
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+---
 
 Here are some ideas to get you started:
 
