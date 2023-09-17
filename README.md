@@ -1,6 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
 **LukasAstrauskas/LukasAstrauskas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+---
 
 [![My Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=LukasAstrauskas&size_weight=0.5&count_weight=0.5&hide=Smarty,shell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -15,7 +17,7 @@
 <img align="left" alt="Typescript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  />
 <img align="left" alt="React" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 <img align="left" alt="Redux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-<img align="left" alt="Router" width="40px" style="padding-right:10px;" src="react-router.svg" />
+<img align="left" alt="Router" width="40px" style="padding-right:10px;" src="logo/react-router.svg" />
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"  />
 <img align="left" alt="Github" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 <img align="left" alt="Gradle" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
@@ -23,8 +25,10 @@
 <img align="left" alt="Postgresql" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 <img align="left" alt="MySQL" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="MaterialUI" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="./sql.svg" />
+<img align="left" alt="JWT" width="40px" style="padding-right:10px;" src="logo/jwt.svg" />
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="logo/sql.svg" />
 
+<br />
 <br />
 
 #
