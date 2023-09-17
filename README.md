@@ -1,6 +1,8 @@
-# Hi there 👋
+# Hi there 👋, I'm Lukas
 
-**LukasAstrauskas/LukasAstrauskas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A software engineer from Vilnius, Lithuania
+
+<!-- **LukasAstrauskas/LukasAstrauskas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ---
 
