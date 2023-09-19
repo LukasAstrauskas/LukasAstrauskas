@@ -41,7 +41,7 @@
 <br>
 <br>
 
-[![My Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=LukasAstrauskas&size_weight=0.5&count_weight=0.5&hide=Smarty,shell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![My Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=LukasAstrauskas&size_weight=0.5&count_weight=0.5&hide=Smarty,shell&theme=blue-green&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
 <summary><h3>👨‍💻 More about me!</h3></summary>
