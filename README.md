@@ -2,13 +2,13 @@
 
 ## 👾 A software engineer from Vilnius, Lithuania
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 I’m currently working on personal project clinic app.
+- 🌱 I’m currently learning Jason Web Token.
+<!-- - 👯 I’m looking to collaborate on ... -->
+- 🤔 I’m looking for help with Docker, Kubernetes.
+<!-- - 💬 Ask me about ... -->
+- 📫 How to reach me: [Facebook](https://www.facebook.com/lukas.astrauskas.1/)
+- 😄 Pronouns: he/him.
 - ⚡ Fun fact: ...
 
 ## 🧰 Languages and Tools
@@ -31,6 +31,7 @@
 #
 
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="logo/sql.svg" />
+<img align="left" alt="SQL" width="42px" style="padding-right:10px;" src="logo/mybatis.svg" />
 <img align="left" alt="Postgresql" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 <img align="left" alt="MySQL" width="50px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
@@ -41,7 +42,7 @@
 <br>
 <br>
 
-[![My Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=LukasAstrauskas&size_weight=0.5&count_weight=0.5&hide=Smarty,shell&theme=blue-green&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![My Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=LukasAstrauskas&size_weight=0.5&count_weight=0.5&hide=Smarty,shell&theme=solarized-light&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
 <summary><h3>👨‍💻 More about me!</h3></summary>
