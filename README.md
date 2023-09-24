@@ -2,14 +2,15 @@
 
 ## 👾 A software engineer from Vilnius, Lithuania
 
-- 🔭 I’m currently working on personal project clinic app.
+- 🔭 I’m currently working on personal project clinic-app [FE](https://github.com/LukasAstrauskas/Clinic-app-FE), [BE](https://github.com/LukasAstrauskas/Clinic-app-BE).
 - 🌱 I’m currently learning Jason Web Token.
-<!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with Docker, Kubernetes.
-<!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: [Facebook](https://www.facebook.com/lukas.astrauskas.1/)
+- 💬 Ask me about Java, Spring Boot.
+- 📫 How to reach me: [Facebook](https://www.facebook.com/lukas.astrauskas.1/), [Linkedin](https://www.linkedin.com/in/lukas-astrauskas/)
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm cycling enthusiast.
+
+<!-- - 👯 I’m looking to collaborate on ... -->
 
 ## 🧰 Languages and Tools
 
