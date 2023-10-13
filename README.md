@@ -3,7 +3,7 @@
 ## 👾 A software engineer from Vilnius, Lithuania
 
 - 🔭 I’m currently working on personal project clinic-app [FE](https://github.com/LukasAstrauskas/Clinic-app-FE), [BE](https://github.com/LukasAstrauskas/Clinic-app-BE).
-- 🌱 I’m currently learning Jason Web Token.
+- 🌱 I’m currently learning Spring Security JWT, MySQL.
 - 🤔 I’m looking for help with Docker, Kubernetes.
 - 💬 Ask me about Java, Spring Boot.
 - 📫 How to reach me: [Facebook](https://www.facebook.com/lukas.astrauskas.1/), [Linkedin](https://www.linkedin.com/in/lukas-astrauskas/)
@@ -47,7 +47,8 @@
 
 <details>
 <summary><h3>👨‍💻 More about me!</h3></summary>
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo recusandae
-fugiat illo aspernatur adipisci quae at modi debitis vero aliquid. Amet
-sapiente, doloremque consectetur maxime expedita asperiores aliquid molestias
-ratione.
+        A very rational, sharp thinker, highly interested in learning new things. 
+    Coding is my latest passion and I hope it will lead to working in this area. I am 
+    a fast and eager learner, especially when the subject is interesting to me.
+    I also have an exceptional sense of humor and love working with people 
+    towards the same goal.
